@@ -17,7 +17,7 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'THE DANIXD'
+global.ownername = 'Taasptra'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
